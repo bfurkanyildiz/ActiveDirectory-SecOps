@@ -17,7 +17,7 @@ Windows tabanlı AD ortamlarında saldırganların en çok kullandığı zafiyet
 * **Kategori:** SecOps / Pentesting / Forensic
 
 ## Klasör Yapısı
-* **`researchs/`**: Gemini, ChatGPT ve Claude üzerinden yapılan derin teknik araştırma çıktıları.
+* **`researchs/`**: Gemini Flash, Gemini PRO, ChatGPT ve Claude üzerinden yapılan derin teknik araştırma çıktıları.
 * **`specs/`**: Projenin teknik gereksinimleri. 
 * **`src/`**: Geliştirilen ana scriptler ve kod dosyaları.
 * **`docs/`**: Kurulum rehberi ve kullanım dökümanları.
