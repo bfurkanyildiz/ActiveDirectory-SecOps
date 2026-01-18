@@ -20,4 +20,4 @@ Bu araştırma dökümanı (Artifact), Claude Sonnet 4.5 tarafından aşağıdak
 
 ---
 ## ⬅️ Geri Dön
-* **[Teknik Denetim Rehberine Dön](./research.claude.result.md)**
+* **[Teknik Denetim Rehberine Dön](./research.claude.result.md)** 
