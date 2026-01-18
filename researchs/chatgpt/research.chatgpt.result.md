@@ -194,7 +194,7 @@ Bu raporda kullanılan tüm teknik referanslar, Microsoft dökümantasyonları v
 ---
 ## 🔗 Bağlantılı Dökümanlar
 * **[Kaynaklar ve Referanslar](./research.chatgpt.sources.md)**
-* **[Kullanılan Mühendislik Promptu](./research.chatgpt.prompt.md)**
+* **[Kullanılan Mühendislik Promptu](./research.chatgpt.prompt.md)** 
 
 
 
