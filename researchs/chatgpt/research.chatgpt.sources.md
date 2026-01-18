@@ -23,4 +23,4 @@ Bu araştırma sürecinde, Active Directory sıkılaştırma ve güvenlik standa
 
 ---
 ## ⬅️ Geri Dön
-* **[Teknik Uygulama Raporuna Dön](./research.chatgpt.result.md)**
+* **[Teknik Uygulama Raporuna Dön](./research.chatgpt.result.md)** 
