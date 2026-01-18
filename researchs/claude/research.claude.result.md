@@ -1231,4 +1231,4 @@ Bu doküman, Active Directory hardening projelerinin denetim ve doğrulama aşam
 ---
 ## 🔗 Bağlantılı Dökümanlar
 * **[Kaynaklar ve Referanslar](./research.claude.sources.md)**
-* **[Kullanılan Mühendislik Promptu](./research.claude.prompt.md)**
+* **[Kullanılan Mühendislik Promptu](./research.claude.prompt.md)** 
