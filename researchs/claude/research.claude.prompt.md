@@ -17,3 +17,4 @@ Bu dosya, Active Directory Denetim ve Doğrulama rehberini oluşturmak için Cla
 >    - **2026 Risk Analizi:** Modern tehdit vektörlerine (Silver Ticket varyantları, AI-phishing vb.) karşı spesifik mühendislik önlemleri.
 >
 > Lütfen doğrudan teknik dökümana odaklan ve kullandığın kaynakları (Microsoft, CIS, NIST) link olarak dökümanın içine yerleştir."
+
