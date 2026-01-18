@@ -135,5 +135,5 @@ Active Directory güvenliği, bir kez yapılıp bırakılan bir işlem değil, y
 
 ---
 ## 🔗 Bağlantılı Dökümanlar
-* **[Kaynaklar ve Referanslar](./research.gemini-fast.sources.md)**
+* **[Kaynaklar ve Referanslar](./research.gemini-fast.sources.md)** 
 * **[Kullanılan Strateji Promptu](./research.gemini-fast.prompt.md)**
