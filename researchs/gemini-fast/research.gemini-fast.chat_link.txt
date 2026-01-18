@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ============================================================
         GEMINI 3 FLASH - DERIN ARASTIRMA KAYDI
 ============================================================
@@ -9,3 +10,16 @@ SOHBET ERISIM LINKI:
 https://gemini.google.com/share/3bb42db2b732
 ------------------------------------------------------------
 
+=======
+==================================================
+      GEMINI FAST - DERIN ARASTIRMA LINKI
+==================================================
+
+Proje: Active Directory Hardening & Auditing
+Tarih: 2026
+
+Sohbet Linki:
+https://gemini.google.com/share/3bb42db2b732
+
+--------------------------------------------------w
+>>>>>>> 43b903176e0e05140dbecc52309975a5e7c6642c
