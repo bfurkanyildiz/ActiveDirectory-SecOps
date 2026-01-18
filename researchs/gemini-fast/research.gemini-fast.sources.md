@@ -19,4 +19,4 @@ Bu araştırma sürecinde 2025-2026 siber güvenlik standartlarını yansıtan a
 
 ---
 ## ⬅️ Geri Dön
-* **[Stratejik Araştırma Raporuna Dön](./research.gemini-fast.result.md)**
+* **[Stratejik Araştırma Raporuna Dön](./research.gemini-fast.result.md)** 
