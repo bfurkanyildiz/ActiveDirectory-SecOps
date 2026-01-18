@@ -20,3 +20,7 @@ Bu araştırma sürecinde, Active Directory sıkılaştırma ve güvenlik standa
 
 ---
 *Not: Tüm teknik veriler ve PowerShell iyileştirme önerileri yukarıdaki kaynakların 2025-2026 güncel rehberlerine dayanmaktadır.*
+
+---
+## ⬅️ Geri Dön
+* **[Teknik Uygulama Raporuna Dön](./research.chatgpt.result.md)**

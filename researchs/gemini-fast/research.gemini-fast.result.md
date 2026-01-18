@@ -133,3 +133,7 @@ Active Directory güvenliği, bir kez yapılıp bırakılan bir işlem değil, y
 * **GitHub:** *PingCastle - Active Directory Security Auditing Tool*
 * **OWASP:** *Internal Network Penetration Testing Guide*
 
+---
+## 🔗 Bağlantılı Dökümanlar
+* **[Kaynaklar ve Referanslar](./research.gemini-fast.sources.md)**
+* **[Kullanılan Strateji Promptu](./research.gemini-fast.prompt.md)**

@@ -191,7 +191,10 @@ Orta ölçekli bir kurumda (500–1000 kullanıcı) sağlam bir AD mimarisi; ço
 ## Kaynaklar
 Bu raporda kullanılan tüm teknik referanslar, Microsoft dökümantasyonları ve CIS standartlarının detaylı listesine aşağıdaki bağlantıdan ulaşabilirsiniz:
 
-🔗 **[Detaylı Kaynak Listesi ve Referanslar için Tıklayınız](./research.chatgpt.sources.md)**
+---
+## 🔗 Bağlantılı Dökümanlar
+* **[Kaynaklar ve Referanslar](./research.chatgpt.sources.md)**
+* **[Kullanılan Mühendislik Promptu](./research.chatgpt.prompt.md)**
 
 
 

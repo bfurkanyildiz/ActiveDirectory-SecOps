@@ -16,3 +16,7 @@ Bu araştırma sürecinde 2025-2026 siber güvenlik standartlarını yansıtan a
 * **SANS Institute (2026 Identity Threat Survey):** Güncel tehdit trendleri.
 * **Semperis & Netwrix Blogs:** 2026 güvenlik güncellemeleri (CVE-2026-20833 analizi).
 * **Red Canary:** Tehdit tespit raporları.
+
+---
+## ⬅️ Geri Dön
+* **[Stratejik Araştırma Raporuna Dön](./research.gemini-fast.result.md)**
