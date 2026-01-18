@@ -117,6 +117,7 @@ oluşturabilir; onay alınırsa düzeltme işlemleri de yapabilir. Örneklerde h
 try/catch blokları ve kullanıcı onayı bulunmaktadır:
 
 # Mevcut GPO'ları tarayıp özel izinleri raporlama
+```powershell
 try {
     $gpoIssues = @()
     foreach ($gpo in Get-GPO -All) {
@@ -135,8 +136,9 @@ try {
 } catch {
     Write-Error "GPO tarama hatası: $_"
 }
-
+```
 # Bulunan sorunları onay sonrası düzeltme (örneğin eksik izinleri ekleme)
+```powershell
 if ($gpoIssues.Count -gt 0 -and (Read-Host "Raporlanan sorunları düzeltmek istiyor musunuz? (E/H)") -eq 'E') {
     try {
         foreach ($item in $gpoIssues) {
@@ -150,8 +152,9 @@ if ($gpoIssues.Count -gt 0 -and (Read-Host "Raporlanan sorunları düzeltmek ist
         Write-Error "Düzeltme işlemi sırasında hata: $_"
     }
 }
-
+```
 # Örnek: Kısıtlı delegasyonu kontrol etme ve kaldırma
+```powershell
 try {
     $uncDel = Get-ADComputer -Filter 'TrustedForDelegation -eq $true' -Properties TrustedForDelegation
     if ($uncDel) {
@@ -168,7 +171,7 @@ try {
 } catch {
     Write-Error "Delegasyon kontrolü hatası: $_"
 }
-
+```
 Her komut bloğu kullanıcı etkileşimine izin vermekte ve hata durumunda mesaj vermektedir. Benzer şekilde, parola politikası gibi ayarları Get-ADDefaultDomainPasswordPolicy ve Set-ADDefaultDomainPasswordPolicy cmdlet’leri ile denetleyebilir ve güncelleyebilirsiniz. Kodlar modüler tutulup önce sadece “-WhatIf” ile test edilerek çalıştırılmalı, gerekirse gerçek düzeltme onayla uygulanmalıdır.
 
 ## Yaygın Hatalar
