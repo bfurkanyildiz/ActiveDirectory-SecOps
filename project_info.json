@@ -1,0 +1,15 @@
+{
+  "projectName": "Active Directory SecOps Framework",
+  "category": "SecOps / Identity Management",
+  "author": "Baha Furkan Yıldız",
+  "version": "1.0.0",
+  "features": [
+    "Tiered Administration Model",
+    "Automated GPO Hardening",
+    "NIST & CIS Compliance Auditing"
+  ],
+  "requirements": {
+    "os": "Windows Server 2022",
+    "language": "PowerShell"
+  }
+}
